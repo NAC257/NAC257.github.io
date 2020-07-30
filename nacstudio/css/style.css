@@ -160,7 +160,6 @@ h1 {
 p.bt {
   position:relative;
   top:15px;
-  left:50px;
   width:70%;
   font-size:35px;
         color:rgba(0, 100, 48, 1)
@@ -168,7 +167,6 @@ p.bt {
 p.subbt {
   position:relative;
   top:15px;
-  left:50px;
   width:70%;
   font-size:25px;
         color:#AAAADD
@@ -176,7 +174,6 @@ p.subbt {
 p.text{
   position:relative;
   top:15px;
-  left:50px;
   width:70%;
   font-size:20px;
   word-wrap:break-word;
@@ -185,7 +182,6 @@ p.text{
 }
 p.space{
   position:relative;
-  left:50px;
   top:5px;
   width:70%;
   font-size:10px;
