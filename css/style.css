@@ -270,7 +270,7 @@ iframe.bilibili{
   left:60px;
 }
 .bgimg{
-  background: url(https://nac257.github.io/img/background.jpg);
+  background: url(background.jpg);
   width:100%;
   height:200px;
   filter:blur(0);
